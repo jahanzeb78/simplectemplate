@@ -21,3 +21,4 @@ $(TARGET): $(OBJECTS)
 clean:
 	-rm -f src/*.o
 	-rm -f $(TARGET)
+//thank 
